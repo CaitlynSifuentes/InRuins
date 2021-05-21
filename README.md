@@ -8,6 +8,7 @@ This small endless runner was created in less than a week. It utilizes free asse
 * Pause: Esc
 
 **Assets:**
+
 [Character Art](https://rvros.itch.io/animated-pixel-hero)
 
 [Tileset](https://penusbmic.itch.io/free-dungeon-ruins-tileset)
