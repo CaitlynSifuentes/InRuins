@@ -1,5 +1,5 @@
 # InRuins
-![Main Menu](\GitImages\menu.png)
+![Main Menu](https://img.itch.zone/aW1nLzU5OTUxMDcucG5n/original/7BKiUZ.png)
 This small endless runner was created in less than a week. It utilizes free assets and was a tool in learning Unity's 2D functionality. The obstacles are procedurally generated in order to keep the gameplay unique and interesting through multiple play throughs. Every obstacle the player successfully dodges counts as a point. The player's highscore is saved and intended to drive replay value. 
 
 **Controls**
